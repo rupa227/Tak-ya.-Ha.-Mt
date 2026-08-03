@@ -1,7 +1,7 @@
 {
-   "author": ["MahMUD"],
+   "author": ["Mijanur"],
     "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
+    "email": "mijanur42e@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -18,7 +18,7 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "100051795782726"
   ],
   "whiteListMode": {
     "enable": false,
